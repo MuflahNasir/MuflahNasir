@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @MuflahNasir
-- 👀 I’m interested in coding, reading, learning, observing nature, and much more.
-- 🌱 I’m currently learning to enhance my skills in both React Native and React
-- 💞️ I’m looking to collaborate on React.js and React Native projects
-- 📫 You can reach me by sending me email at muflahnasir@gmail.com
-- 💞️ I am collaborating on the React Native project https://github.com/cdmbase/fullstack-pro with other team members both for Android and iOS versions.
+- 👀 I have a keen interest in coding, reading, learning, and observing nature.
+- 🌱 Currently, I am focused on enhancing my skills in React Native and React
+- 💞️ I am looking forward to collaborating on React.js and React Native projects
+- 📫 To reach me, you can send an email to muflahnasir@gmail.com
+- 💞️ Additionally, I am part of a team working on a React Native project https://github.com/cdmbase/fullstack-pro for both Android and iOS versions.
 
 <!---
 MuflahNasir/MuflahNasir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
